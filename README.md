@@ -3,7 +3,7 @@
 - 🔭 Cyber Security
 - ⚡ Go / Python.
 - ✍️ [Blogger](https://d3n13d.github.io/)
-- 🏃  Cycling
+- 🏃   Cycling
 <!--
 **D3n13d/D3n13d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
